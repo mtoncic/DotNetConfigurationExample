@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "DotNetConfigurationExample": {
+      "commandName": "Project",
+      "commandLineArgs": "--Project:Name \"ConsoleProjectName\" --Project:Author \"ConsoleAuthor\"",
+      "environmentVariables": {
+        "MyOwnEnvVariable__Secret": "Environment Variable Secret"
+      }
+    }
+  }
+}

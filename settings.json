@@ -1,0 +1,10 @@
+﻿{
+  "Secret": "MySecret",
+  "Project": {
+    "Name": "MySecretProject",
+    "Author": "JohnDoe"
+  },
+  "ConnectionStrings": {
+    "my_connection_string": "my super secret db connection string"
+  }
+}
